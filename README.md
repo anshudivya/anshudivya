@@ -16,14 +16,13 @@
 
 ### Glad to see you here! 🤩
  
-I'm a 3rd year student pursuing B.Tech in Computer Science 🎓 from Jaipur Engineering College and Research Centre. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development and Machine Learning Enthusiast. 🕸️ and mastering Data Structure and Algorithm 🤓.
+I'm a final year student pursuing B.Tech in Computer Science 🎓 from Jaipur Engineering College and Research Centre. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I'm currently into Web Development and Machine Learning Enthusiast. 🕸️ and mastering Data Structure and Algorithm 🤓.
 
 <img align="right" height="250" width="375" alt="GIF" src="https://tenor.com/view/work-minions-pyramid-gif-11420906" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m experienced in HTML, CSS, Javascript, Python etc 💻.
-- 👨🏻‍💻 I’m currently learning Data Structure and Algorithm 🚀.
+- 🛠 I’m experienced in HTML,Python, Linux, Networking, Bash Scripting etc 💻.
 - ⚡ Fun fact: 47% of users expect websites to load within 2 seconds.
 - 📫 How to reach me: 1099divyanshusingh@gmail.com
 
